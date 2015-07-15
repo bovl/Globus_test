@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FirstTheme" parent="android:Theme.Holo.Light">
+        <item name="android:textColor">#1faee9</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="SecondTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:textColor">#ccff00</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+</resources>
