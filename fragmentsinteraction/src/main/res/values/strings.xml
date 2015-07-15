@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentsInteraction</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="url_button">Show web page</string>
+    <string name="url_default">http://www.lenta.ru</string>
+
+    <string name="explanation">ActivityA contains FragmentL.In FragmentL we enter a URL and press a button. By pressing a button ActivityB (with FragmentL) starts. Then FragmentL displays web page.</string>
+
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_c">Activity C</string>
+    <string name="title_activity_">ActivityA</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="title_activity_activity_c">ActivityC</string>
+
+</resources>
